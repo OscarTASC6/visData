@@ -547,6 +547,7 @@ function certain() {
     text += data[i] + "<br>";
     console.log(data.results[i].dob);
   }
+  
 }
 // var downRow = document.querySelectorAll(".downrow");
 // // downRow.innerHTML = "HELLO!";     
